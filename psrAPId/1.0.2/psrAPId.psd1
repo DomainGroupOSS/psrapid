@@ -11,7 +11,7 @@
     builtOn = '2019-04-05T18:31:29'
     PSData = @{
       LicenseUri = 'https://github.com/DomainGroupOSS/psrapid/blob/master/LICENSE'
-      Tags = @('Domain','API','Framework','psCore compatible','linux compatible')
+      Tags = @('Domain','API','Framework','psCore','linux')
       ProjectUri = 'https://github.com/DomainGroupOSS/psrapid'
       IconUri = 'https://github.com/DomainGroupOSS/psrapid/blob/master/icon.png'
     }
